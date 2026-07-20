@@ -46,6 +46,7 @@ API_PROVIDER=stability
 # 5. Run
 streamlit run app.py
 
+
 ## 👩‍💻 Developer
 
 **Malaika Tariq** | DecodeLabs Batch 2026
